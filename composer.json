@@ -1,0 +1,21 @@
+{
+    "name": "hsunmr/aes-php",
+    "description": "PHP implementations of advanced encryption standard",
+    "type": "library",
+    "require": {
+        "php": "^5.3 || ^7.0 || ^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hsunmr\\AesPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hsun",
+            "email": "hsunmr0823@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
