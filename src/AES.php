@@ -1,5 +1,7 @@
 <?php
 
+namespace Hsunmr;
+
 class AES
 {
     /**
